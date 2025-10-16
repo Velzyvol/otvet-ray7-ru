@@ -8,12 +8,14 @@
 	
 }
 .band-add-ask-div{
+	 user-select: none;
 	display:inline;
 	color:white;
 	font-size:130%;
 	height:50px;
 }
 .band-list-div{
+	
 	color:white;
 	display:inline;
 	font-size:130%;
@@ -34,8 +36,9 @@
 	
 }
 .band-add-ask-button{
+	 user-select: none;
 	width:15%;
-	min-width:110px;
+	min-width:140px;
 	padding:7px;
 	height:18px;
 	color:black;
@@ -58,12 +61,15 @@
 	
 }
 .band-list-item-open{
+	user-select: none;
 	width:80px;
 }
 .band-list-item-golos{
+	user-select: none;
 	width:120px;
 }
 .band-list-item-top{
+	user-select: none;
 	width:100px;
 }
 .band-list-item-open:hover{

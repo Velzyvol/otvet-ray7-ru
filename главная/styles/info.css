@@ -10,6 +10,7 @@
 	justify-content: center; 
 }
 .info-list-ask-liader-title{
+	user-select: none;
 	display:flex;
 	color:white;
 	height:40px;
@@ -27,6 +28,7 @@
 	justify-content: center; 
 }
 .info-list-liader-project-title{
+	user-select: none;
 	display:flex;
 	color:white;
 	height:40px;
