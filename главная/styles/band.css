@@ -1,0 +1,80 @@
+.band-div{
+	display:inline;
+	width:700px;
+}
+.band-space-up{
+	display:flex;
+	height:20px;
+	
+}
+.band-add-ask-div{
+	display:inline;
+	color:white;
+	font-size:130%;
+	height:50px;
+}
+.band-list-div{
+	color:white;
+	display:inline;
+	font-size:130%;
+	height:50px;	
+}
+.band-add-ask-input-div{
+	display:flex;
+}
+.band-add-ask-input-div-space{
+	
+	height:10px;
+}
+.band-add-ask-input{
+	width:65%;
+	height:30px;
+	border: none;
+	outline: none;
+	
+}
+.band-add-ask-button{
+	width:15%;
+	min-width:110px;
+	padding:7px;
+	height:18px;
+	color:black;
+	font-size:80%;
+	background-color:#FF8000;
+}
+
+.band-add-ask-button:hover{	
+	cursor:pointer;
+}
+
+.band-list-item-div{
+	display:flex;
+	width:100%;
+	font-size:70%;
+	
+}
+.band-list-space{
+	height:10px;
+	
+}
+.band-list-item-open{
+	width:80px;
+}
+.band-list-item-golos{
+	width:120px;
+}
+.band-list-item-top{
+	width:100px;
+}
+.band-list-item-open:hover{
+	cursor:pointer;
+}
+.band-list-item-golos:hover{
+	cursor:pointer;
+}
+.band-list-item-top:hover{
+	cursor:pointer;
+}
+.band-lenta-space{
+	height:30px;
+}

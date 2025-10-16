@@ -1,0 +1,41 @@
+.info-div{
+	display:flex;
+}
+.info-list-div{
+	display:inline;
+	width:400px;
+}
+.info-list-ask-liader-div{
+	display:flex;
+	justify-content: center; 
+}
+.info-list-ask-liader-title{
+	display:flex;
+	color:white;
+	height:40px;
+	align-items:center;
+	font-size:120%;
+}
+.info-list-ask-liader-title:hover{
+	cursor:pointer;
+}
+.info-list-ask-liader-body{
+	
+}
+.info-list-liader-project-div{
+	display:flex;
+	justify-content: center; 
+}
+.info-list-liader-project-title{
+	display:flex;
+	color:white;
+	height:40px;
+	align-items:center;
+	font-size:120%;
+}
+.info-list-liader-project-title:hover{
+	cursor:pointer;
+}
+.info-list-liader-project-body{
+	
+}
